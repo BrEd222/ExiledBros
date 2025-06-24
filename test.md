@@ -1,5 +1,5 @@
 ---
-title: Test
+title: Analisi di un item
 layout: home
 ---
 
