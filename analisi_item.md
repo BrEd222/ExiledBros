@@ -6,7 +6,7 @@ nav_order: 2
 
 # Analisi di un Item
 
-Analizziamo insieme le informazioni che possiamo trovare all'interno di un item, prendendo questo esempio.
+Analizziamo le informazioni presenti in un item, partendo da questo esempio.
 
 <img src="./img/analisi_item/1.png">
 
@@ -15,10 +15,10 @@ Analizziamo insieme le informazioni che possiamo trovare all'interno di un item,
 <img src="./img/analisi_item/2.png">
 
 ### Nome item:
-Casuale, dipende dai bonus dell’item. In questo caso "Empyrean Clutches" Li trovi su PoE DB
+Casuale, dipende dai bonus dell’item. In questo caso "Empyrean Clutches". Puoi trovarli su PoE DB.
 
 ### Item Base: 
-In questo caso "Slink Gloves", la base determina le statistiche difensive/offensive di base, vedere Craft of Exile (CoE) per trovare la base migliore
+In questo caso "Slink Gloves". La base determina le statistiche difensive/offensive dell'oggetto. Consulta Craft of Exile (CoE) per individuare la base migliore.
 
 ---
 
@@ -26,17 +26,17 @@ In questo caso "Slink Gloves", la base determina le statistiche difensive/offens
 
 ### Qualità
 
-La qualità migliora l'attributo di base dell'oggetto (in questo caso l'evasion rating)
-Più la qualità è alta e più è facile che si 6-linki con le fusing
+La qualità migliora l'attributo base dell'oggetto (in questo caso l'evasion rating).
+Maggiore è la qualità, più è facile ottenere un 6-link usando le fusing.
 
-- Migliorabile con armourer’s scrap (fino a 20%) 
-- Per avere 30% l’unico modo è droppare la base al 30"
+- Migliorabile con Armourer’s Scrap (fino al 20%) 
+- Per ottenere il 30% è necessario che la base droppi già al 30
 
 ### Defensive Base 
 
-In questo caso "Evasion Rating" è l'attributo difensivo (o offensinvo) di base dell'oggetto.
-- Rollabile con sacred orb
-- Se usate filter-blade e droppate un item con una scia viola è perché è rollata al 100% 
+In questo caso l'"Evasion Rating" è l'attributo difensivo (o offensivo) base dell'oggetto.
+- Può essere rollato con la Sacred Orb
+- Se usi FilterBlade e un item ha una scia viola, è perché ha un roll al 100%
 
 ---
 
@@ -44,17 +44,16 @@ In questo caso "Evasion Rating" è l'attributo difensivo (o offensinvo) di base 
 
 ### Item Level (ilvl)
 
-Influenza il tier massimo degli affissi che può avere (vedi su [CoE](https://www.craftofexile.com/)) 
-
+Determina il tier massimo degli affissi applicabili (vedi [CoE](https://www.craftofexile.com/)).
 
 ### Requirement 
 
-Attributi richiesti per essere equipaggiato
-- Se richiede più dex è più facile che rolli socket verdi, str->ross, intt->blu
-- Influenza gli affissi rollabili (vedi su [CoE](https://www.craftofexile.com/)) 
+Attributi richiesti per equipaggiare l’oggetto.
+- Più alta è la richiesta di dex, più probabile sarà avere socket verdi (str → rossi, int → blu)
+- Influenza anche gli affissi possibili (vedi [CoE](https://www.craftofexile.com/)) 
     - Dex: evasion e suppress
-    - Int + Str: Energy Shield + Armour
-    - Ecc…
+    - Int + Str: energy shield + armour
+    - Ecc.
 
 ---
 
@@ -62,11 +61,11 @@ Attributi richiesti per essere equipaggiato
 
 ### Impliciti
 
-- Un oggetto **non influenzato** può avere impliciti del searing ed eater o impliciti sintetizzati
+- Un oggetto **non influenzato** può avere impliciti del Searing/Eater o impliciti sintetizzati
 - Un oggetto **fractured** non può avere impliciti **sintetizzati**
 - Un oggetto **fractured** non può essere **influenzato**
-- Upgradabili tramite orb of conflict
-- L’implicito può essere sostituito da una vaal orb 
+- Upgradabili con Orb of Conflict
+- L’implicito può essere sostituito con una Vaal Orb
 
 ---
 
@@ -74,11 +73,10 @@ Attributi richiesti per essere equipaggiato
 
 ### Affissi
 
-- Divisi in suffissi e prefissi
-- Un oggetto **magico** può avere fino a 1 prefisso e 1 suffisso
+- Suddivisi in prefissi e suffissi
+- Un oggetto **magico** può avere al massimo 1 prefisso e 1 suffisso
 - Un oggetto **raro** può avere fino a 3 prefissi e 3 suffissi
-- Hanno un Tier che determina i valori [min max] che possono rollare
-- Hanno un valore rollato  all’interno del tier.
+- Hanno un Tier che determina i valori [min, max] rollabili
+- Hanno un valore rollato all’interno del Tier
 
-
-Nota: il **roll** può essere modificato con oggetti come le Divine Orb. Per modificare il **tier**, è necessario riforgiare/rerollare l’oggetto
+Nota: il **roll** può essere modificato con Divine Orb. Per modificare il **tier**, è necessario riforgiare o rerollare l’oggetto
