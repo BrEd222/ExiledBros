@@ -45,7 +45,7 @@ Quale iLv scegliere??
 
 Facile: basta andare nella sezione **Calculator**, scegliere un Amethyst ring e guardare qual è l’iLv minimo per il tier degli affissi che vogliamo. 
 
-<img src="./img/rf2.png">
+<img src="./img/rf2.png" width=400>
 
 ---
 
@@ -58,5 +58,5 @@ Primo step: spammare essenze
 
 > Se mi esce fire res ma mi serviva cold? No problem: harvest ha un craft che permette di sostituire l'elemento di un siffisso di tipo resistenza. La potrai cambiare così in seguito
 
-<img src="./img/rf3.png">
-<img src="./img/rf4.png">
+<img src="./img/rf3.png" width=400>
+<img src="./img/rf4.png" width=400>
