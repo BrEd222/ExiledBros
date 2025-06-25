@@ -57,7 +57,7 @@ Primo step: spammare essenze
 - Facciamo essence spam fino a una qualsiasi res T2-T1 e un open suffix
 
 {: .nota }
-Se mi esce fire res ma mi serviva cold? No problem: harvest ha un craft che permette di sostituire l'elemento di un siffisso di tipo resistenza. La potrai cambiare così in seguito
+Se esce Fire Resistance ma ti serviva Cold, nessun problema: Harvest offre un craft che permette di convertire un suffisso di tipo resistenza in un altro elemento. Potrai quindi cambiarla in seguito.
 
 <img src="./img/rf3.png" width=400>
 <img src="./img/rf4.png" width=400>
