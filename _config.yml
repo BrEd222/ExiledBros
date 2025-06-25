@@ -5,7 +5,15 @@ theme: just-the-docs
 #url: https://just-the-docs.github.io
 
 color_scheme: bros
+
 favicon_ico: "/img/favicon.ico"
+
+callouts:
+  nota:
+    title: Nota
+    color: yellow
+
+
 
 #aux_links:
   #Template Repository: https://github.com/just-the-docs/just-the-docs-template
