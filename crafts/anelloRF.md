@@ -33,3 +33,30 @@ Se facciamo un'analisi su Craft of Exile vediamo che l’unico modo per ottenere
 
 ---
 
+# Craftiamolo su CoE
+
+Andiamo su Emulator e creiamo la base
+
+- Craft New Item
+- Jewellery 
+- Amethyst Ring
+
+Quale iLv scegliere??
+
+Facile: basta andare nella sezione **Calculator**, scegliere un Amethyst ring e guardare qual è l’iLv minimo per il tier degli affissi che vogliamo. 
+
+<img src="./img/rf2.png">
+
+---
+
+# Essence Spam
+
+Primo step: spammare essenze
+
+- Usiamo un alchemy per farlo diventare raro   
+- Facciamo essence spam fino a una qualsiasi res T2-T1 e un open suffix
+
+> Se mi esce fire res ma mi serviva cold? No problem: harvest ha un craft che permette di sostituire l'elemento di un siffisso di tipo resistenza. La potrai cambiare così in seguito
+
+<img src="./img/rf3.png">
+<img src="./img/rf4.png">
