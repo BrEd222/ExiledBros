@@ -23,3 +23,10 @@ Se facciamo un'analisi su Craft of Exile vediamo che l’unico modo per ottenere
 
 ---
 
+# Il piano
+
+1) **Craftiamo i suffissi** : Tramite Essence Spam, perchè è l’unico modo di avere Fire Damage
+2) **Metamod Reforge** : Blocchiamo i Suffissi e Riforgiamo Chaos, Chaos Res sarà garantita
+4) **Culo, Yolo e currency** :Se non becchiamo il tier di chaos res, ci arrabattiamo per sistemare l’oggetto
+5) **Finire l’oggetto** : Ragioniamo su come finire gli ultimi affissi
+7) **Settle / Ripartire** : Come vedrete, è solo una questione di currency disponibile

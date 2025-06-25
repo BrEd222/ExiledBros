@@ -1,5 +1,5 @@
 ---
-title: Esempi di Craft
+title: Esempi di Crafting
 layout: home
 nav_order: 3
 ---
