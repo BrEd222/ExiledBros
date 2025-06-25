@@ -56,7 +56,8 @@ Primo step: spammare essenze
 - Usiamo un alchemy per farlo diventare raro   
 - Facciamo essence spam fino a una qualsiasi res T2-T1 e un open suffix
 
-> Se mi esce fire res ma mi serviva cold? No problem: harvest ha un craft che permette di sostituire l'elemento di un siffisso di tipo resistenza. La potrai cambiare così in seguito
+{: .highlight }
+Se mi esce fire res ma mi serviva cold? No problem: harvest ha un craft che permette di sostituire l'elemento di un siffisso di tipo resistenza. La potrai cambiare così in seguito
 
 <img src="./img/rf3.png" width=400>
 <img src="./img/rf4.png" width=400>
