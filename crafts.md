@@ -1,5 +1,5 @@
 ---
-title: Esempi di Crafting
+title: Ricette di Crafting
 layout: home
 nav_order: 3
 ---
