@@ -1,13 +1,14 @@
 ---
 title: Anello per RF
 layout: home
-parent: Esempi di Crafting
+parent: Ricette di Crafting
 nav_order: 1
 ---
 
-# Il risultato che vogliamo ottenere
+Proviamo a craftare insieme un anello tipicamente usato nelle build Righteous Fire. 
+Si tratta di un craft semplice, che utilizza le tecniche base del crafting.
 
-Analizziamo le informazioni presenti in un item, partendo da questo esempio.
+# Il risultato che vogliamo ottenere
 
 <img src="./img/rf1.png">
 
