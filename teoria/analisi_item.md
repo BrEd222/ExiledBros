@@ -79,4 +79,5 @@ Attributi richiesti per equipaggiare l’oggetto.
 - Hanno un Tier che determina i valori [min, max] rollabili
 - Hanno un valore rollato all’interno del Tier
 
-Nota: il **roll** può essere modificato con Divine Orb. Per modificare il **tier**, è necessario riforgiare o rerollare l’oggetto
+{: .nota } 
+Il **roll** può essere modificato con Divine Orb. Per modificare il **tier**, è necessario riforgiare o rerollare l’oggetto
