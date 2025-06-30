@@ -8,7 +8,7 @@ nav_order: 1
 Proviamo a craftare insieme un anello tipicamente usato nelle build Righteous Fire. 
 Si tratta di un craft semplice, che utilizza le tecniche base del crafting.
 
-# Il risultato che vogliamo ottenere
+# **Il risultato che vogliamo ottenere**
 
 <img src="./img/rf1.png">
 
@@ -24,7 +24,7 @@ Se facciamo un'analisi su Craft of Exile vediamo che l’unico modo per ottenere
 
 ---
 
-# Il piano
+# **Il piano**
 
 1. **Craftiamo i suffissi** : Tramite Essence Spam, perchè è l’unico modo di avere Fire Damage
 2. **Metamod Reforge** : Blocchiamo i Suffissi e Riforgiamo Chaos, Chaos Res sarà garantita
@@ -34,7 +34,7 @@ Se facciamo un'analisi su Craft of Exile vediamo che l’unico modo per ottenere
 
 ---
 
-# Craftiamolo su CoE
+# **Craftiamolo su CoE**
 
 Andiamo su Emulator e creiamo la base
 
@@ -50,7 +50,7 @@ Facile: basta andare nella sezione **Calculator**, scegliere un Amethyst ring e 
 
 ---
 
-# Essence Spam
+# **Essence Spam**
 
 Primo step: spammare essenze
 
@@ -65,7 +65,7 @@ Se esce Fire Resistance ma ti serviva Cold, nessun problema: Harvest offre un cr
 
 ---
 
-# Metamod + Harvest
+# **Metamod + Harvest**
 
 - Applichiamo “Suffixes cannot be changed” dal Crafting Bench  
 - Usiamo Reforge Chaos da Harvest: garantisce Chaos Resistance  
@@ -75,7 +75,7 @@ Se esce Fire Resistance ma ti serviva Cold, nessun problema: Harvest offre un cr
 
 ---
 
-# Finire l’oggetto: riflessione
+# **Finire l’oggetto: riflessione**
 
 Ora abbiamo due strade:  
 ### Strada 1: 
@@ -92,14 +92,14 @@ Se i suffissi sono già pieni, Suffixes Cannot Be Changed può anche essere forz
 
 ---
 
-# Finiamo l'oggetto
+# **Finiamo l'oggetto**
 
 - Usiamo Suffixes Cannot Be Changed + Reforge Life finché non otteniamo almeno T2 Life  
 - Una volta raggiunto il tier desiderato, facciamo Bench Craft (se c’è un prefix libero)
 
 <img src="./img/rf6.png" width=400>
 
-### Considerazioni 
+### **Considerazioni **
 
 L’oggetto è finito?
 

@@ -4,7 +4,7 @@ layout: home
 nav_order: 2
 ---
 
-# Analisi di un Item
+# **Analisi di un Item**
 
 Analizziamo le informazioni presenti in un item, partendo da questo esempio.
 
