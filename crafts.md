@@ -1,7 +1,7 @@
 ---
 title: Ricette di Crafting
 layout: home
-nav_order: 3
+nav_order: 10
 ---
 
 # **Esempi di Craft**
