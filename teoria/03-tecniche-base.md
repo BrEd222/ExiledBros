@@ -11,6 +11,7 @@ In questa sezione andiamo ad analizzare le tecniche di Crafting di base e alcune
 
 ## Table of Contents
 {: .no_toc}
+
 1. TOC
 {:toc}
 
@@ -33,7 +34,7 @@ Gli affissi hanno (quasi) sempre dei tag. Funzionano come “Categorie”. Vengo
 Ogni affisso può avere ha uno o più tag: `caster`, `attack`, ecc.
 Alcuni affissi NON hanno tag. Per esempio *Spell Suppression* non ha tag, il che lo rende difficile da targettare 
 
-![04-01.png]("./img/14-01.png")
+![04-01.png](./img/14-01.png)
 
 
 ## Uso dei Tag su Craft of Exile
