@@ -91,7 +91,7 @@ Una volta capita la logica dei **tag**, possiamo sfruttarla per usare al meglio 
 
 ### Funzionamento
 
-- Serve **Lifeforce** del colore corretto (verde, blu, rosso).
+- Serve **Lifeforce** del colore corretto (Rossa, Gialla, Blu).
 - La mod “**Reforge with a guaranteed mod of tag X**” forza almeno un affisso con quel **tag**.
 
 ### Esempio pratico
