@@ -1,6 +1,7 @@
 ---
 title: Analisi di un item
 layout: home
+Parent: Teoria del Crafting
 nav_order: 2
 ---
 

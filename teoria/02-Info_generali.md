@@ -1,7 +1,8 @@
 ---
 title: Le basi
 layout: home
-nav_order: 3
+Parent: Teoria del Crafting
+nav_order: 1
 ---
 
 # **Le rarità degli oggetti**

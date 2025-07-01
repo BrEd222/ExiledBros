@@ -1,7 +1,8 @@
 ---
 layout: default
 title: "Tecniche di Crafting Avanzate"
-nav_order: 5
+Parent: Teoria del Crafting
+nav_order: 4
 tags: [crafting, avanzato]
 ---
 
