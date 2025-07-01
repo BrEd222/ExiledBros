@@ -14,7 +14,7 @@ In questa sezione andiamo ad analizzare le tecniche di Crafting di base e alcune
 
 ---
 
-# Metamod
+# **Metamod**
 
 I Metamod Mod che influenzano gli effetti dei craft
 - **Suffixes/prefixes cannot be changed**: utile per pulire un item o mantenerne inalterata una parte mentre si rolla l'altra
@@ -24,14 +24,14 @@ Se utilizziamo scouring / annullment mentre l’ogggetto ha un metamod come suff
 
 ---
 
-# Tag
+# **Tag**
 
 Gli affissi hanno (quasi) sempre dei tag. Funzionano come “Categorie”. Vengono usati dal gioco per regolare alcune proprietà, per esempio quali modificatori possono rollare o meno su un oggetto.
 
 Ogni affisso può avere ha uno o più tag: `caster`, `attack`, ecc.
 Alcuni affissi NON hanno tag. Per esempio *Spell Suppression* non ha tag, il che lo rende difficile da targettare 
 
-![04-01.png](./img/14-01.png)
+![04-01.png]("./img/14-01.png")
 
 
 ## Uso dei Tag su Craft of Exile
@@ -56,7 +56,7 @@ Questo ci verrà molto utile dopo
 
 ---
 
-# Tag Blocking e Slam Controllato
+# **Tag Blocking e Slam Controllato**
 
 Possiamo usare la conoscenza dei **tag** per influenzare l’esito dei craft.
 
@@ -81,7 +81,7 @@ Questo approccio sfrutta la logica interna dei **tag** e dei **weight** per elim
 
 ![04-01.png](./img/15-01.png)
 
-# Harvest Crafting mirato con i Tag
+# **Harvest Crafting mirato con i Tag**
 
 Una volta capita la logica dei **tag**, possiamo sfruttarla per usare al meglio la bench di **Horticrafting**.
 
@@ -108,7 +108,7 @@ Combinare il reforge di Harvest con il tag blocking è una tecnica solida per ot
 
 ---
 
-# Combinare Harvest e Metamod
+# **Combinare Harvest e Metamod**
 
 Una tecnica avanzata consiste nel **bloccare** gli affissi già buoni usando metamod, e poi usare **Harvest Reforge** per craftare gli altri.
 
@@ -136,7 +136,7 @@ Metodo efficace per conservare affissi rari o costosi e lavorare solo sulle part
 
 ---
 
-# Eldritch Currency
+# **Eldritch Currency**
 
 Le **Eldritch Currency** sono fondamentali per il crafting su oggetti **non influenzati** o **sintetizzati**.
 
@@ -161,7 +161,7 @@ Non è necessario che l’oggetto abbia **entrambe** le influenze. Ne basta una,
 
 ---
 
-# Metodi comuni di Crafting
+# **Metodi comuni di Crafting**
 
 Alcuni degli approcci ricorrenti nella pratica:
 
