@@ -9,6 +9,8 @@ tags: [crafting, intermedio]
 
 In questa sezione andiamo ad analizzare le tecniche di Crafting di base e alcune loro possibili combinazioni
 
+## Table of Contents
+{: .no_toc}
 1. TOC
 {:toc}
 
@@ -187,5 +189,5 @@ La scelta migliore dipende dal costo attuale delle currency sul mercato e dal va
 {: .nota } 
 Non si può craftare un mirror item con due chaos. Serve usare tante currency e mod costosi.
 
-Quanto costa craftare un mirror tier itemm??
+Quanto costa craftare un mirror tier item??
 ![55 miliardi](./img/miliardi.png)
