@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Tecniche di Crafting"
+title: "Tecniche di Crafting Base"
 nav_order: 4
 tags: [crafting, intermedio]
 ---
