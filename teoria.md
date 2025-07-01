@@ -1,7 +1,7 @@
 ---
 title: Teoria del Crafting
 layout: home
-nav_order: 10
+nav_order: 2
 ---
 
 # **Analisi di oggetti, currency e tecniche**
