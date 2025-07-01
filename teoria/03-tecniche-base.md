@@ -9,6 +9,10 @@ tags: [crafting, intermedio]
 
 In questa sezione andiamo ad analizzare le tecniche di Crafting di base e alcune loro possibili combinazioni
 
+{:toc}
+
+---
+
 # Metamod
 
 I Metamod Mod che influenzano gli effetti dei craft
@@ -156,7 +160,7 @@ Non è necessario che l’oggetto abbia **entrambe** le influenze. Ne basta una,
 
 ---
 
-## Metodi comuni di Crafting
+# Metodi comuni di Crafting
 
 Alcuni degli approcci ricorrenti nella pratica:
 
