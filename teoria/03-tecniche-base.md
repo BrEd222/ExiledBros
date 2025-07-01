@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Tecniche di Crafting Base"
-Parent: Teoria del Crafting
+parent: Teoria del Crafting
 nav_order: 3
 tags: [crafting, intermedio]
 ---

@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Tecniche di Crafting Avanzate"
-Parent: Teoria del Crafting
+parent: Teoria del Crafting
 nav_order: 4
 tags: [crafting, avanzato]
 ---
@@ -10,18 +10,14 @@ tags: [crafting, avanzato]
 
 ## Veiled Orb
 
-- Rimuove un affisso e ne aggiunge uno veiled.
-- Rispettano i metamod attivi.
+wip
 
 ## Orb of Dominance
 
-- Su item con due mod influenzate: ne eleva una, ne rimuove l’altra.
+wip
 
 ## Awakener Orb
 
-- Unisce due influenze.
-- Craft finale molto costoso, ma potente.
-
-## Immagini di riferimento
+wip 
 
 ![05-01.png](./img/05-01.png)

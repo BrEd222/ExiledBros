@@ -1,7 +1,7 @@
 ---
 title: Le basi
 layout: home
-Parent: Teoria del Crafting
+parent: Teoria del Crafting
 nav_order: 1
 ---
 
