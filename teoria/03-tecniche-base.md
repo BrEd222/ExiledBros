@@ -9,6 +9,7 @@ tags: [crafting, intermedio]
 
 In questa sezione andiamo ad analizzare le tecniche di Crafting di base e alcune loro possibili combinazioni
 
+1. TOC
 {:toc}
 
 ---
