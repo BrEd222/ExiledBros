@@ -82,7 +82,7 @@ Se non otteniamo l’affisso voluto:
 {: .nota } 
 Questo approccio sfrutta la logica interna dei **tag** e dei **weight** per eliminare risultati indesiderati e migliorare la probabilità di colpire affissi utili.
 
-![04-01.png](./img/15-01.png)
+![04-01.png](./img/16-01.png)
 
 # **Harvest Crafting mirato con i Tag**
 
@@ -107,7 +107,7 @@ Stesso principio vale per:
 {: .nota } 
 Combinare il reforge di Harvest con il tag blocking è una tecnica solida per ottenere affissi desiderati in modo deterministico.
 
-![04-01.png](./img/16-01.png)
+![04-01.png](./img/17-01.png)
 
 ---
 
