@@ -10,7 +10,7 @@ nav_order: 1
 La rarità di un oggetto può essere modificata o migliorata tramite specifiche currency.
 
 - Item **normale**
-    - Upgradabile a magico con un [Orb of Transmutation](https://www.poewiki.net/wiki/Orb_of_Transmutation) <img src="https://www.poewiki.net/images/6/67/Orb_of_Transmutation_inventory_icon.png">
+    - Upgradabile a magico con un [Orb of Transmutation](https://www.poewiki.net/wiki/Orb_of_Transmutation) <img src="https://www.poewiki.net/images/6/67/Orb_of_Transmutation_inventory_icon.png" width=20>
     - Upgradabile a raro con un [Orb of Alchemy](https://www.poewiki.net/wiki/Orb_of_Alchemy)
 
 - Item **magico**
