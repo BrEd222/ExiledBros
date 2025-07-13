@@ -13,16 +13,16 @@ tags: [crafting, avanzato]
 
 ---
 
-# Veiled Chaos Orb
+# **Veiled Chaos Orb**
 
 wip
 
-# Veiled Exalted Orb
+# **Veiled Exalted Orb**
 
 wip
 
 
-# Orb of Dominance <img src="./img/35401.png" width=30>
+# **Orb of Dominance** <img src="https://www.poewiki.net/images/c/c2/Orb_of_Dominance_inventory_icon.png" width=30>
 
 - Utilizzabile solo su item con **2 mod influenzate**.
 - **Effetto**: rimuove una delle due mod e eleva il tier dell’altra (può passare a `Elevated`).
@@ -32,7 +32,7 @@ wip
 ![](./img/34-02.png)
 ![](./img/34-03.png)
 
-## Awakener Orb <img src="./img/35-01.png" width=30>
+# **Awakener Orb** <img src="https://www.poewiki.net/images/c/c0/Awakener%27s_Orb_inventory_icon.png" width=30>
 
 - **Funzione**: Unisce le influenze di due oggetti dello stesso tipo.
 - **Metodo**:
