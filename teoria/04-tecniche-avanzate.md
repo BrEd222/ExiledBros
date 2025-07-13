@@ -22,7 +22,7 @@ wip
 wip
 
 
-# Orb of Dominance ![](./img/34-01.png)
+# Orb of Dominance <img src="./img/35401.png" width=30>
 
 - Utilizzabile solo su item con **2 mod influenzate**.
 - **Effetto**: rimuove una delle due mod e eleva il tier dell’altra (può passare a `Elevated`).
@@ -32,7 +32,7 @@ wip
 ![](./img/34-02.png)
 ![](./img/34-03.png)
 
-## Awakener Orb ![](./img/35-01.png)
+## Awakener Orb <img src="./img/35-01.png" width=30>
 
 - **Funzione**: Unisce le influenze di due oggetti dello stesso tipo.
 - **Metodo**:
