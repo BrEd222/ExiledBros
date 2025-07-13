@@ -10,12 +10,12 @@ nav_order: 1
 La rarità di un oggetto può essere modificata o migliorata tramite specifiche currency.
 
 - Item **normale**
-    - Upgradabile a magico con un [Orb of Transmutation](https://www.poewiki.net/wiki/Orb_of_Transmutation)
+    - Upgradabile a magico con un [Orb of Transmutation](https://www.poewiki.net/wiki/Orb_of_Transmutation) <img src="./img/10-01.png" width=20>
     - Upgradabile a raro con un [Orb of Alchemy](https://www.poewiki.net/wiki/Orb_of_Alchemy)
 
 - Item **magico**
     - può avere al massimo 1 prefisso e 1 suffisso
-    - [Orb of Alteration](https://www.poewiki.net/wiki/Orb_of_Alteration) per rerollare gli affissi
+    - [Orb of Alteration](https://www.poewiki.net/wiki/Orb_of_Alteration) per rerollare gli affissi 
     - [Orb of Augmentation](https://www.poewiki.net/wiki/Orb_of_Augmentation) per aggiungere un affisso (se lo slot è libero)
     - [Regal Orb](https://www.poewiki.net/wiki/Regal_Orb) cambia la rarità in raro e aggiunge un affisso
 
