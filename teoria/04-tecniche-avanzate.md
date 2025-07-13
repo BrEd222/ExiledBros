@@ -46,7 +46,7 @@ La **Veiled Chaos Orb** è una currency rientrata con la 3.26 – riforgia u
 ## Integrazione con altre tecniche
 
 - Si combina bene con:
-  - **Harvest tag blocking**: blocco tag inutili prima della veiled chaos.
+  - **Tag blocking**: blocco tag inutili prima della veiled chaos.
   - **Eldritch Annullment/Chaos** per riforgiare affissi indesiderati.
   - **Metamod** per fissare affissi rari prima del veiled.
 
@@ -54,7 +54,7 @@ La **Veiled Chaos Orb** è una currency rientrata con la 3.26 – riforgia u
 
 # **Veiled Exalted Orb** <img src="https://www.poewiki.net/images/d/db/Veiled_Exalted_Orb_inventory_icon.png" width=30>
 
-La **Veiled Exalted Orb** è una valuta speciale introdotta insieme alle nuove meccaniche veiled, che rimuove un modificatore da un oggetto raro e lo sostituisce con un mod **veiled** garantito.
+La **Veiled Exalted Orb** è una valuta che rimuove un modificatore da un oggetto raro e lo sostituisce con un mod **veiled** garantito.
 
 ## Quando usarla
 
