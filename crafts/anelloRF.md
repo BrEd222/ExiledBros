@@ -1,7 +1,7 @@
 ---
 title: Esempio: Anello per RF
 layout: home
-parent: "Tecniche di Crafting Base"
+parent: Tecniche di Crafting Base
 nav_order: 1
 ---
 
