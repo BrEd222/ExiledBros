@@ -4,7 +4,7 @@ layout: home
 nav_order: 1
 ---
 <p align="center">
-<img src="./img/exiledbros_kitava_big.png" width=300>
+<img src="./img/exiledbros_kitava_big.png" width=500>
 </p>
 Siamo **BrEd** e **Cactus**.  
 Abbiamo raccolto i nostri appunti sul crafting in *Path of Exile* e li abbiamo messi insieme in questa guida pratica.
