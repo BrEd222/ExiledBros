@@ -15,7 +15,7 @@ tags: [crafting, avanzato]
 
 # **Veiled Chaos Orb** <img src="https://www.poewiki.net/images/7/72/Veiled_Chaos_Orb_inventory_icon.png" width=30>
 
-La **Veiled Chaos Orb** è una currency rientrata con la 3.26 – riforgia un oggetto raro con nuovi affissi e **garantisce un** [**veiled mod**](https://www.poewiki.net/wiki/List_of_veiled_modifiers)**
+La **Veiled Chaos Orb** è una currency rientrata con la 3.26 – riforgia un oggetto raro con nuovi affissi e **garantisce un** [**veiled mod**](https://www.poewiki.net/wiki/List_of_veiled_modifiers)
 
 <img src="./img/33-02.jpg">
 
