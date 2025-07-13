@@ -99,7 +99,7 @@ Se i suffissi sono già pieni, Suffixes Cannot Be Changed può anche essere forz
 
 <img src="./img/rf6.png" width=400>
 
-### **Considerazioni**
+# **Considerazioni finali**
 
 L’oggetto è finito?
 
