@@ -31,11 +31,13 @@ Su oggetti magici e rari è possibile utilizzare currency che servono a “reset
 
 Infine, la [Divine Orb](https://www.poewiki.net/wiki/Divine_Orb) permette di rerollare i valori numerici degli affissi, senza modificarne il tier. <img src="https://www.poewiki.net/images/5/58/Divine_Orb_inventory_icon.png" width=30> 
 
-Le orb che abbiamo citato rappresentano la currency base del gioco, e vengono introdotte gradualmente dalla campagna in avanti. Esistono altre currency, ciascuna con effetti specifici che si possono trovare nelle fasi più avanzate del gioco e hanno una rarità via via maggiore. Le introdurreno gradualmente nella guida. Un elenco completo si trova a [questa pagina della wiki](https://www.poewiki.net/wiki/Currency)
-
 {: .nota }
 Utilizzare uno Scouring può cambiare la rarità da raro a magico in base agli affissi presenti.  
 Esempio: se un item ha 1 prefisso e 2 suffissi, e si applica "Prefixes Cannot Be Changed" prima di usare uno Scouring, l’oggetto diventerà magico (poiché rimane un solo prefisso). Se invece si fa il contrario, l’item resterà raro, perché un oggetto magico non può avere 2 affissi dello stesso gruppo.
+
+Le orb che abbiamo citato rappresentano la currency base del gioco, e vengono introdotte gradualmente dalla campagna in avanti. Esistono altre currency, ciascuna con effetti specifici, che si possono trovare nelle fasi più avanzate del gioco e hanno una rarità via via maggiore. Le introdurreno gradualmente nella guida. Un elenco completo si trova a [questa pagina della wiki](https://www.poewiki.net/wiki/Currency)
+
+
 
 # **Terminologie e slang**
 
