@@ -26,8 +26,6 @@ La **Veiled Chaos Orb** è una currency rientrata con la 3.26 – riforgia u
 - **NON** include i [signature veiled modifiers](https://www.poewiki.net/wiki/Immortal_Syndicate) nella pool
 - Primo introdotto in patch 3.14.0 e poi reintrodotto in 3.26.0 :contentReference
 
----
-
 ## Utilizzo pratico
 
 - Serve per aggiungere un *veiled modifier* garantito, utile quando si punta a topping affissi “Jun” o simili.
@@ -36,8 +34,6 @@ La **Veiled Chaos Orb** è una currency rientrata con la 3.26 – riforgia u
 ## Rischi e contro
 
 - Esiste una probabilità che il veiled riempia uno slot bloccato :contentReference
-
----
 
 ## Quando usarlo
 
@@ -68,8 +64,6 @@ La **Veiled Exalted Orb** è una valuta speciale introdotta insieme alle nuove m
   2. Bloccato l'altro tipo con metamod o altro
   3. Vuoi aggiungere un mod veiled con **66 % di probabilità**, senza sovraccaricare — come suggerito su Reddit:  
 
-
----
 
 ## Strategia d’uso
 
