@@ -1,11 +1,11 @@
 ---
-title: Anello per RF
+title: Esempio: Anello per RF
 layout: home
-parent: Ricette di Crafting
+parent: "Tecniche di Crafting Base"
 nav_order: 1
 ---
 
-Proviamo a craftare insieme un anello tipicamente usato nelle build Righteous Fire. 
+Proviamo a utilizzare quello che abbiamo visto finora per craftare insieme un anello tipicamente usato nelle build Righteous Fire. 
 Si tratta di un craft semplice, che utilizza le tecniche base del crafting.
 
 # **Il risultato che vogliamo ottenere**
@@ -99,7 +99,7 @@ Se i suffissi sono già pieni, Suffixes Cannot Be Changed può anche essere forz
 
 <img src="./img/rf6.png" width=400>
 
-### **Considerazioni **
+### **Considerazioni**
 
 L’oggetto è finito?
 
