@@ -103,6 +103,8 @@ Se i suffissi sono già pieni, Suffixes Cannot Be Changed può anche essere forz
 
 L’oggetto è finito?
 
+<img src="./img/rf7.png">
+
 E’ bello, peccato per quel tier 3….
 
 Cosa facciamo?
