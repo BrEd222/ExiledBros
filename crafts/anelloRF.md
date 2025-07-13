@@ -1,5 +1,5 @@
 ---
-title: Esempio: Anello per RF
+title: "Esempio: Anello per RF"
 layout: home
 parent: Tecniche di Crafting Base
 nav_order: 1
