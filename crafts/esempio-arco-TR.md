@@ -6,13 +6,13 @@ nav_order: 2
 ---
 
 # Arco per Toxic Rain 
-L'esempio è utile come esempio di applicazione dei Metamod "Cannt Roll Attack". 
-L'arco che andremo a Creare è come quello riportato nell'immagine
+L'esempio è utile come esempio di applicazione dei Metamod come "Cannt Roll Attack". 
+L'arco che andremo a Creare è come quello riportato nell'immagine. 
 
 <img src="./img/Arco_TR/arco_tr_58.png" width=400>
 
  
-## Piano di crafting
+### Piano di crafting
 
 1. **Alteration Spam**
 
@@ -37,18 +37,18 @@ L'arco che andremo a Creare è come quello riportato nell'immagine
 
 <img src="./img/Arco_TR/arco_tr_59.png" width=400>
 
-# **Multimod, Cannot Roll Attack e conseguente blocco dei suffissi**  
+## **Multimod, Cannot Roll Attack e conseguente blocco dei suffissi**  
    - Bench craft: *Can have up to 3 crafted modifiers*  
    - Bench craft: *Cannot roll attack modifiers*
    
    A questo punto i suffissi sono pieni, e notiamo da [Craft of Exile](https://www.craftofexile.com) tutti i prefissi **eccetto uno** che è quello che ci interessa, hanno il tag attack. I due step successivi diventano quindi deterministici.    
-   
+
    - Usiamo un **Exalted Orb** per forzare `+1 to level of socketed gems`.  
    - Usiamo **Hunter Exalted Orb** per ottenere `Chaos Damage over Time`.
 
 <img src="./img/Arco_TR/arco_tr_60.png" width=400>
 
-# **Chiusura**  
+## **Chiusura**  
    - Rimuoviamo i mod craftati temporanei.  
    - Ri-Craftiamo *Can have up to 3 crafted modifiers*.  
    - Aggiungere con bench craft:  
