@@ -65,8 +65,9 @@ Attributi richiesti per equipaggiare l’oggetto.
 Ogni oggetto può avere dei bonus Impliciti, che non fanno parte dei normali affissi e non vengono alterati dalle comuni currency di crafting. Normalmente, un oggetto può avere al massimo 2 impliciti, ed esistono metodi diversi per ottenerli. L'esempio più comune di mod *Implicito* è quello che troviamo sugli anelli: L'anello **Ruby Ring** ha come implicito *+% Fire Resistance*, che non può essere modificato con la normale currency.
 
 <details>
-<summary>Informazioni Aggiuntive sugli impliciti. Se non conosci il significato di alcuni termini della descrizione qui sotto, non ti preoccupare e passa oltre. Per ora tutto quello che ti serve sapere è racchiuso nelle due frasi sopra</summary>    
+<summary>**Informazioni Aggiuntive sugli impliciti** </summary>    
 
+Se non conosci il significato di alcuni termini della descrizione qui sotto, non ti preoccupare e passa oltre. Per ora tutto quello che ti serve sapere è racchiuso nelle due frasi sopra
 
 - Il modo più comune per controllare gli impliciti sulle armature, è quello di utilizzare le *Eldritch Currency* (vedi crafting avanzato) per ottenere degli impliciti di tipo **Searing Exarch** o **Eater of Worlds**, come nell'immagine
 - Un altro modo per ottenere un implicito su un oggetto è **Corromperlo** utilizzando un **Vaal Orb** : uno degli esisti della corruzione è l'aggiunta di un Implicito all'item
