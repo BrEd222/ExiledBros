@@ -24,6 +24,8 @@ La rarità di un oggetto può essere modificata o migliorata tramite specifiche 
     - [Chaos Orb](https://www.poewiki.net/wiki/Chaos_Orb) per rerollare tutti gli affissi <img src="https://www.poewiki.net/images/9/9c/Chaos_Orb_inventory_icon.png" width=30>
     - [Exalted Orb](https://www.poewiki.net/wiki/Exalted_Orb) per aggiungere un affisso su un raro <img src="https://www.poewiki.net/images/2/26/Exalted_Orb_inventory_icon.png" width=30>
 
+![rarity.png](./img/raritymod.png)
+
 Su oggetti magici e rari è possibile utilizzare currency che servono a “resettare” o modificare selettivamente:
 
 - [Orb of Scouring](https://www.poewiki.net/wiki/Orb_of_Scouring) per riportarlo a normale <img src="https://www.poewiki.net/images/5/51/Orb_of_Scouring_inventory_icon.png" width=30>
@@ -49,5 +51,6 @@ Di seguito le espressioni e gli slang utilizzati nelle guide. Non sono propriame
 - **Prefixes/Suffixes filled**: l’oggetto ha tutti i prefissi o tutti i suffissi occupati.
 - **Item brickato**: stato in cui il craft non può proseguire secondo i piani e l’oggetto va ricominciato da zero.
 - **Slam**: usare una currency (es. Exalted Orb) per aggiungere un affisso casuale sull’oggetto (“slammare”).
+
 
 
