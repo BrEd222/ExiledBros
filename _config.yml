@@ -13,7 +13,9 @@ callouts:
     title: Nota
     color: yellow
 
-
+commonmark:
+  options: ["UNSAFE", "SMART", "FOOTNOTES"]
+  extensions: ["strikethrough", "autolink", "table", "tagfilter"]
 
 #aux_links:
   #Template Repository: https://github.com/just-the-docs/just-the-docs-template
