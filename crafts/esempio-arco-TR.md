@@ -30,7 +30,7 @@ L'arco che andremo a Creare è come quello riportato nell'immagine.
     - Multimod
 
 
-# **Alteration spam**  
+## **Alteration spam**  
    Si spammano alteration fino a trovare **T1** `Damage over Time Multiplier`.  
    Una volta ottenuto, si usa **Regal Orb** per rendere l’oggetto raro.  
    A questo punto, lo si pulisce con **Orb of Annulment** fino a che non abbiamo solo il T1 DoT multi su un oggetto raro.
