@@ -9,7 +9,7 @@ nav_order: 2
 L'esempio è utile come esempio di applicazione dei Metamod "Cannt Roll Attack". 
 L'arco che andremo a Creare è come quello riportato nell'immagine
 
-![Obiettivo](/img/Arco_TR/arco_tr_58.png)  
+<img src="./img/Arco_TR/arco_tr_58.png" width=400>
 
  
 ## Piano di crafting
