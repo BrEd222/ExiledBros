@@ -41,6 +41,8 @@ L'arco che andremo a Creare è come quello riportato nell'immagine.
    - Bench craft: *Can have up to 3 crafted modifiers*  
    - Bench craft: *Cannot roll attack modifiers*
    
+<img src="./img/Arco_TR/arco_tr_59bis.png" width=400>
+
    A questo punto i suffissi sono pieni, e notiamo da [Craft of Exile](https://www.craftofexile.com) tutti i prefissi **eccetto uno** che è quello che ci interessa, hanno il tag attack. I due step successivi diventano quindi deterministici.    
 
    - Usiamo un **Exalted Orb** per forzare `+1 to level of socketed gems`.  
