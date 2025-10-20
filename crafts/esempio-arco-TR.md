@@ -31,11 +31,11 @@ L'arco che andremo a Creare è come quello riportato nell'immagine
 
 
 # **Alteration spam**  
-   Si spammano alteration fino a trovare **T1 Damage over Time Multiplier**.  
+   Si spammano alteration fino a trovare **T1** `Damage over Time Multiplier`.  
    Una volta ottenuto, si usa **Regal Orb** per rendere l’oggetto raro.  
    A questo punto, lo si pulisce con **Orb of Annulment** fino a che non abbiamo solo il T1 DoT multi su un oggetto raro.
 
-![Step 1](/img/Arco_TR/arco_tr_59.png)  
+<img src="./img/Arco_TR/arco_tr_59.png" width=400>
 
 # **Multimod e protezioni**  
    - Bench craft: *Can have up to 3 crafted modifiers*  
@@ -43,7 +43,7 @@ L'arco che andremo a Creare è come quello riportato nell'immagine
    - Usiamoe un **Exalted Orb** per forzare `+1 to level of socketed gems`.  
    - Usiamo **Hunter Exalted Orb** per ottenere `Chaos Damage over Time`.
 
-![Step 2](/img/Arco_TR/arco_tr_60.png)  
+<img src="./img/Arco_TR/arco_tr_60.png" width=400>
 
 # **Chiusura**  
    - Rimuoviamo i mod craftati temporanei.  
@@ -52,7 +52,7 @@ L'arco che andremo a Creare è come quello riportato nell'immagine
      - `+2 to level of socketed support gems`  
      - `% Chaos damage over time multiplier`  
 
-![Step 3](/img/Arco_TR/arco_tr_61.png)  
+<img src="./img/Arco_TR/arco_tr_61.png" width=400>
 
 
 
