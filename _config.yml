@@ -13,6 +13,8 @@ callouts:
     title: Nota
     color: yellow
 
+markdown: CommonMarkGhPages
+
 commonmark:
   options: ["UNSAFE", "SMART", "FOOTNOTES"]
   extensions: ["strikethrough", "autolink", "table", "tagfilter"]
