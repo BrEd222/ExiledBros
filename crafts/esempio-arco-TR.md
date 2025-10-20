@@ -1,5 +1,5 @@
 ---
-title: "Esempio: Arco per TR"
+title: "Esempio: Arco per Toxic Rain"
 layout: home
 parent: Tecniche di Crafting Avanzate
 nav_order: 2
