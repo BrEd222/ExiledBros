@@ -64,6 +64,10 @@ Attributi richiesti per equipaggiare l’oggetto.
 
 Ogni oggetto può avere dei bonus Impliciti, che non fanno parte dei normali affissi e non vengono alterati dalle comuni currency di crafting. Normalmente, un oggetto può avere al massimo 2 impliciti, ed esistono metodi diversi per ottenerli. L'esempio più comune di mod *Implicito* è quello che troviamo sugli anelli: L'anello **Ruby Ring** ha come implicito *+% Fire Resistance*, che non può essere modificato con la normale currency.
 
+<details>
+<summary>Informazioni Aggiuntive sugli impliciti. Se non conosci il significato di alcuni termini della descrizione qui sotto, non ti preoccupare e passa oltre. Per ora tutto quello che ti serve sapere è racchiuso nelle due frasi sopra</summary>    
+
+
 - Il modo più comune per controllare gli impliciti sulle armature, è quello di utilizzare le *Eldritch Currency* (vedi crafting avanzato) per ottenere degli impliciti di tipo **Searing Exarch** o **Eater of Worlds**, come nell'immagine
 - Un altro modo per ottenere un implicito su un oggetto è **Corromperlo** utilizzando un **Vaal Orb** : uno degli esisti della corruzione è l'aggiunta di un Implicito all'item
 - Analogamente al vaal orb, l'utilizzo del **Locus of corruption** può avere come effetto la *corruzione potente* che può risultare nell'aggiunta di due impliciti, detta comunemente "**doppia corruzione**". Ci si riferisce a questi oggetti come "**doppio corrotti**"
@@ -74,8 +78,9 @@ Sebbene tutte le basi possono potenzialmente avere degli impliciti, esistono alc
 - Un oggetto **non influenzato** può avere impliciti del Searing/Eater o impliciti sintetizzati
 - Un oggetto **fractured** non può avere impliciti **sintetizzati**
 - Un oggetto **fractured** non può essere **influenzato**
-- Upgradabili con Orb of Conflict
-- L’implicito può essere sostituito con una Vaal Orb
+- Il tier degli impliciti Searing/Eater può essere upgradato con **Orb of Conflict**
+- L’implicito può essere sostituito con una **Vaal Orb** o con il **Locus of Corruption**
+</details>
 
 ---
 
