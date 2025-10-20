@@ -64,26 +64,32 @@ Attributi richiesti per equipaggiare l’oggetto.
 
 Ogni oggetto può avere dei bonus Impliciti, che non fanno parte dei normali affissi e non vengono alterati dalle comuni currency di crafting. Normalmente, un oggetto può avere al massimo 2 impliciti, ed esistono metodi diversi per ottenerli. L'esempio più comune di mod *Implicito* è quello che troviamo sugli anelli: L'anello **Ruby Ring** ha come implicito *+% Fire Resistance*, che non può essere modificato con la normale currency.
 
-<script type="text/markdown">
+
 <details>
-<summary>**Informazioni Aggiuntive sugli impliciti** </summary>    
+<summary> <b>Informazioni Aggiuntive sugli impliciti</b> </summary>    
 
-Se non conosci il significato di alcuni termini della descrizione qui sotto, non ti preoccupare e passa oltre. Per ora tutto quello che ti serve sapere è racchiuso nelle due frasi sopra
+Se non conosci il significato di alcuni termini della descrizione qui sotto, non ti preoccupare e passa oltre. Per ora tutto quello che ti serve sapere è racchiuso nelle due frasi sopra<br>
 
-- Il modo più comune per controllare gli impliciti sulle armature, è quello di utilizzare le *Eldritch Currency* (vedi crafting avanzato) per ottenere degli impliciti di tipo **Searing Exarch** o **Eater of Worlds**, come nell'immagine
-- Un altro modo per ottenere un implicito su un oggetto è **Corromperlo** utilizzando un **Vaal Orb** : uno degli esisti della corruzione è l'aggiunta di un Implicito all'item
-- Analogamente al vaal orb, l'utilizzo del **Locus of corruption** può avere come effetto la *corruzione potente* che può risultare nell'aggiunta di due impliciti, detta comunemente "**doppia corruzione**". Ci si riferisce a questi oggetti come "**doppio corrotti**"
-- L'ultimo modo per avere degli impliciti è quella di avere un oggetto **Sintetizzato**. Gli oggetti sintetizzati hanno la particolarità di avere un Implicito che si discosta dal normale pool di impliciti che sarebbe possibile trovare su quell'oggetto usando uno degli altri metodi. Per esempio, è possibile trovare Anelli sintetizzati che hanno come implicito "+1 Max Endurance Charges" invece del classico "+#% Elemental Resistance".
+<ul>
 
+</ul>
+<li>Il modo più comune per controllare gli impliciti sulle armature, è quello di utilizzare le *Eldritch Currency* (vedi crafting avanzato) per ottenere degli impliciti di tipo **Searing Exarch** o **Eater of Worlds**, come nell'immagine</li>
+<li>Un altro modo per ottenere un implicito su un oggetto è **Corromperlo** utilizzando un <b>Vaal Orb</b> : uno degli esisti della corruzione è l'aggiunta di un Implicito all'item</li>
+<li>Analogamente al vaal orb, l'utilizzo del <b>Locus of corruption</b> può avere come effetto la corruzione potente che può risultare nell'aggiunta di due impliciti, detta comunemente "<b>doppia corruzione</b>". Ci si riferisce a questi oggetti come "<b>doppio corrotti</b>"</li>
+<li>L'ultimo modo per avere degli impliciti è quella di avere un oggetto <b>Sintetizzato</b>. Gli oggetti sintetizzati hanno la particolarità di avere un Implicito che si discosta dal normale pool di impliciti che sarebbe possibile trovare su quell'oggetto usando uno degli altri metodi. Per esempio, è possibile trovare Anelli sintetizzati che hanno come implicito "+1 Max Endurance Charges" invece del classico "+#% Elemental Resistance".</li>
+</ul>
 Sebbene tutte le basi possono potenzialmente avere degli impliciti, esistono alcuni modificatori del tipo di base che sono mutualmente esclusivi. Le regole di mutua esclusione sono:
 
-- Un oggetto **non influenzato** può avere impliciti del Searing/Eater o impliciti sintetizzati
-- Un oggetto **fractured** non può avere impliciti **sintetizzati**
-- Un oggetto **fractured** non può essere **influenzato**
-- Il tier degli impliciti Searing/Eater può essere upgradato con **Orb of Conflict**
-- L’implicito può essere sostituito con una **Vaal Orb** o con il **Locus of Corruption**
+<ul>
+<li>Un oggetto <b>non influenzato</b> può avere impliciti del Searing/Eater o impliciti sintetizzati</li>
+<li>Un oggetto <b>fractured</b> non può avere impliciti <b>sintetizzati</b></li>
+<li>Un oggetto <b>fractured</b> non può essere <b>influenzato</b></li>
+<li>Il tier degli impliciti Searing/Eater può essere upgradato con <b>Orb of Conflict</b></li>
+<li>L’implicito può essere sostituito con una **Vaal Orb** o con il <b>Locus of Corruption</b></li>
+</ul>
 </details>
-</script>
+
+
 ---
 
 <img src="./img/analisi_item/6.png">
