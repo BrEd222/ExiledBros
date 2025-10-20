@@ -64,6 +64,7 @@ Attributi richiesti per equipaggiare l’oggetto.
 
 Ogni oggetto può avere dei bonus Impliciti, che non fanno parte dei normali affissi e non vengono alterati dalle comuni currency di crafting. Normalmente, un oggetto può avere al massimo 2 impliciti, ed esistono metodi diversi per ottenerli. L'esempio più comune di mod *Implicito* è quello che troviamo sugli anelli: L'anello **Ruby Ring** ha come implicito *+% Fire Resistance*, che non può essere modificato con la normale currency.
 
+<script type="text/markdown">
 <details>
 <summary>**Informazioni Aggiuntive sugli impliciti** </summary>    
 
@@ -82,7 +83,7 @@ Sebbene tutte le basi possono potenzialmente avere degli impliciti, esistono alc
 - Il tier degli impliciti Searing/Eater può essere upgradato con **Orb of Conflict**
 - L’implicito può essere sostituito con una **Vaal Orb** o con il **Locus of Corruption**
 </details>
-
+</script>
 ---
 
 <img src="./img/analisi_item/6.png">
