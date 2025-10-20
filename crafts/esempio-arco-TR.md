@@ -40,7 +40,9 @@ L'arco che andremo a Creare è come quello riportato nell'immagine
 # **Multimod, Cannot Roll Attack e conseguente blocco dei suffissi**  
    - Bench craft: *Can have up to 3 crafted modifiers*  
    - Bench craft: *Cannot roll attack modifiers*
+   
    A questo punto i suffissi sono pieni, e notiamo da [Craft of Exile](https://www.craftofexile.com) tutti i prefissi **eccetto uno** che è quello che ci interessa, hanno il tag attack. I due step successivi diventano quindi deterministici.    
+   
    - Usiamo un **Exalted Orb** per forzare `+1 to level of socketed gems`.  
    - Usiamo **Hunter Exalted Orb** per ottenere `Chaos Damage over Time`.
 
